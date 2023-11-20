@@ -1,0 +1,1 @@
+settings tab - allowing users to delete account, change username etc.
